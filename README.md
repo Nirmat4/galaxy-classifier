@@ -30,7 +30,7 @@ La clasificación tradicional de galaxias (como espirales, elípticas o irregula
 
 ## 📊 Ejemplo de Clasificación
 
-![Ejemplo](database/images/3.jpg)
+![Ejemplo](assets/images/3.jpg)
 
 ## 📚 Dataset
 
